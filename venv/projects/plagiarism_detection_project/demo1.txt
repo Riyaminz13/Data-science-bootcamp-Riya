@@ -1,0 +1,2 @@
+hello I am making a project to detect plagiarism in text files.
+everything in this wolrd can be copied but origrinal is origrinal and others will still be the copies.

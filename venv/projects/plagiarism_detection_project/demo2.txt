@@ -1,0 +1,2 @@
+hello I am making a project to detect plagiarism in text files.
+everything can not be copied and it shouldn't at all.
